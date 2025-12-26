@@ -1,0 +1,7 @@
+{
+  "name": "Pioneer WebDJ",
+  "description": "A professional-grade web-based DJ controller interface featuring dual decks, 3-band EQ mixer, and Gemini AI-powered track analysis for seamless transitions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
